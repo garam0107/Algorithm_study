@@ -11,3 +11,19 @@
 감사합니다.
 <br>-> 22222
 <br>-> 33333
+
+### 1. 개별 브랜치 생성 및 문제 풀이
+- 저장소 클론
+- 문제마다 개별 브랜치 생성 후 이동
+  - git checkout -b 이름/문제 번호 or 제목(브랜치명)
+- commit
+- push
+  - git push origin 브랜치명
+ 
+### 2. PR 생성
+- github repo - Pull requests - push한 브랜치 선택 후 Creat pull request
+- 오른쪽에 있는 Reviewers 선택 후 나머지 3명을 리뷰어로 지정
+
+### 3. 코드 리뷰
+- PR페이지 Files changed에서 코드 리뷰 진행
+
