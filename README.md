@@ -14,9 +14,10 @@
 
 ### 1. 개별 브랜치 생성 및 문제 풀이
 - 저장소 클론
-- 문제마다 개별 브랜치 생성 후 이동
-  - git checkout -b 이름/문제 번호 or 제목(브랜치명)
+- 주차별 개별 브랜치 생성 후 이동
+  - git checkout -b 이름/주차(브랜치명)
 - commit
+  - git commit -m "문제 번호 or 제목"
 - push
   - git push origin 브랜치명
  
